@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "../assets/styles/login.css";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
@@ -7,8 +8,8 @@ const LoginPage = () => {
     const navigate = useNavigate();
 
     const [formData, setFormData] = useState({
-        email: "",
-        password: ""
+        email: "admin@gmail.com",
+        password: "admin123"
     });
 
     const [loading, setLoading] = useState(false);
