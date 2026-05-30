@@ -1,0 +1,21 @@
+id,date,country,state,rainfall_mm,river_level_m,flood_severity,affected_population
+1,2024-01-05,India,Andhra Pradesh,220,8.5,High,12000
+2,2024-01-12,India,Kerala,180,7.8,Medium,8500
+3,2024-01-18,Bangladesh,Dhaka,250,9.2,High,15000
+4,2024-02-01,India,Assam,210,8.8,High,14000
+5,2024-02-10,Nepal,Koshi,190,7.5,Medium,7000
+6,2024-02-18,India,Bihar,240,9.0,High,18000
+7,2024-03-02,China,Hunan,170,7.1,Medium,6000
+8,2024-03-15,India,Odisha,230,8.9,High,16000
+9,2024-03-22,Pakistan,Sindh,200,8.1,Medium,9000
+10,2024-04-01,India,West Bengal,260,9.4,High,20000
+11,2024-04-08,Nepal,Bagmati,180,7.3,Medium,6500
+12,2024-04-18,India,Uttar Pradesh,220,8.6,High,13000
+13,2024-05-02,Bangladesh,Chittagong,270,9.6,High,22000
+14,2024-05-10,India,Assam,240,9.1,High,17500
+15,2024-05-20,India,Kerala,190,7.7,Medium,8200
+16,2024-06-01,India,Bihar,250,9.3,High,21000
+17,2024-06-08,China,Jiangxi,175,7.0,Medium,5500
+18,2024-06-18,India,Odisha,235,8.8,High,15500
+19,2024-06-25,Nepal,Lumbini,185,7.4,Medium,7000
+20,2024-07-01,India,Andhra Pradesh,245,9.0,High,19000

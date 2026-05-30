@@ -1,0 +1,21 @@
+id,date,location,temperature_c,humidity_percent,rainfall_mm,wind_speed_kmph,pressure_hpa,weather_condition
+1,2023-01-01,Andhra Pradesh,29,75,45,18,1008,Rainy
+2,2023-01-02,Kerala,28,88,95,22,1005,Heavy Rain
+3,2023-01-03,Telangana,31,65,12,14,1012,Cloudy
+4,2023-01-04,Tamil Nadu,30,70,20,16,1010,Cloudy
+5,2023-01-05,Karnataka,27,82,65,19,1007,Rainy
+6,2023-01-06,Maharashtra,33,60,5,12,1015,Sunny
+7,2023-01-07,Gujarat,35,45,0,10,1018,Sunny
+8,2023-01-08,Odisha,30,78,80,25,1004,Heavy Rain
+9,2023-01-09,West Bengal,29,84,90,24,1003,Heavy Rain
+10,2023-01-10,Assam,26,90,120,28,1000,Storm
+11,2023-01-11,Bihar,28,80,55,18,1009,Rainy
+12,2023-01-12,Jharkhand,29,76,35,17,1010,Cloudy
+13,2023-01-13,Delhi,25,60,2,9,1017,Sunny
+14,2023-01-14,Punjab,22,58,0,8,1019,Sunny
+15,2023-01-15,Haryana,23,56,1,7,1018,Sunny
+16,2023-01-16,Rajasthan,37,32,0,11,1020,Hot
+17,2023-01-17,Chhattisgarh,31,70,25,15,1012,Cloudy
+18,2023-01-18,Meghalaya,24,92,140,30,998,Storm
+19,2023-01-19,Nagaland,25,89,110,27,1001,Rainy
+20,2023-01-20,Sikkim,18,85,75,22,1005,Rainy

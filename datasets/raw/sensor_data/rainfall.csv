@@ -1,0 +1,21 @@
+id,date,location,rainfall_mm
+1,2024-01-01,Andhra Pradesh,120
+2,2024-01-02,Kerala,180
+3,2024-01-03,Assam,220
+4,2024-01-04,Bihar,150
+5,2024-01-05,Odisha,175
+6,2024-01-06,West Bengal,200
+7,2024-01-07,Telangana,95
+8,2024-01-08,Tamil Nadu,85
+9,2024-01-09,Karnataka,140
+10,2024-01-10,Maharashtra,160
+11,2024-01-11,Gujarat,70
+12,2024-01-12,Rajasthan,40
+13,2024-01-13,Uttar Pradesh,110
+14,2024-01-14,Punjab,65
+15,2024-01-15,Haryana,55
+16,2024-01-16,Delhi,45
+17,2024-01-17,Chhattisgarh,130
+18,2024-01-18,Jharkhand,145
+19,2024-01-19,Meghalaya,260
+20,2024-01-20,Nagaland,210

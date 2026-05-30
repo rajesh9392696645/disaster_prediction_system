@@ -1,0 +1,21 @@
+id,date,location,rainfall_mm,river_level_m,flood_risk
+1,2024-01-01,Andhra Pradesh,180,7.2,High
+2,2024-01-02,Kerala,220,8.5,High
+3,2024-01-03,Assam,250,9.1,High
+4,2024-01-04,Bihar,140,6.5,Medium
+5,2024-01-05,Odisha,190,7.8,High
+6,2024-01-06,West Bengal,170,7.1,Medium
+7,2024-01-07,Telangana,90,4.2,Low
+8,2024-01-08,Tamil Nadu,85,3.9,Low
+9,2024-01-09,Karnataka,110,5.1,Medium
+10,2024-01-10,Maharashtra,120,5.5,Medium
+11,2024-01-11,Gujarat,70,3.0,Low
+12,2024-01-12,Rajasthan,40,2.2,Low
+13,2024-01-13,Uttar Pradesh,130,6.0,Medium
+14,2024-01-14,Punjab,65,2.9,Low
+15,2024-01-15,Haryana,55,2.5,Low
+16,2024-01-16,Delhi,45,2.3,Low
+17,2024-01-17,Chhattisgarh,150,6.8,Medium
+18,2024-01-18,Jharkhand,145,6.4,Medium
+19,2024-01-19,Meghalaya,280,9.8,High
+20,2024-01-20,Nagaland,230,8.7,High

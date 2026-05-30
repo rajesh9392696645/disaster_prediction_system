@@ -1,0 +1,21 @@
+id,date,country,region,rainfall_mm,slope_angle,severity,affected_population
+1,2024-01-05,India,Himachal Pradesh,180,35,High,1200
+2,2024-01-12,Nepal,Kathmandu,170,30,Medium,800
+3,2024-01-20,India,Uttarakhand,210,40,High,1500
+4,2024-02-01,Indonesia,Java,160,28,Medium,700
+5,2024-02-10,India,Sikkim,220,42,High,1800
+6,2024-02-18,Nepal,Pokhara,175,32,Medium,900
+7,2024-03-01,India,Meghalaya,230,45,High,2000
+8,2024-03-10,Indonesia,Sumatra,165,29,Medium,750
+9,2024-03-18,India,Arunachal Pradesh,240,47,High,2200
+10,2024-04-01,Nepal,Bharatpur,180,31,Medium,850
+11,2024-04-10,India,Nagaland,225,43,High,1700
+12,2024-04-18,Indonesia,Bali,170,30,Medium,800
+13,2024-05-01,India,Manipur,235,46,High,2100
+14,2024-05-10,Nepal,Lalitpur,185,33,Medium,950
+15,2024-05-18,India,Mizoram,245,48,High,2400
+16,2024-06-01,Indonesia,Java,175,29,Medium,780
+17,2024-06-10,India,Assam,220,41,High,1600
+18,2024-06-18,Nepal,Koshi,190,34,Medium,1000
+19,2024-06-25,India,Uttarakhand,250,49,High,2600
+20,2024-07-01,Indonesia,Sumatra,180,30,Medium,850

@@ -1,0 +1,21 @@
+id,date,river_name,state,river_level_m
+1,2024-01-01,Godavari,Andhra Pradesh,5.2
+2,2024-01-02,Krishna,Andhra Pradesh,4.8
+3,2024-01-03,Brahmaputra,Assam,8.5
+4,2024-01-04,Ganga,Bihar,7.2
+5,2024-01-05,Mahanadi,Odisha,6.1
+6,2024-01-06,Hooghly,West Bengal,5.9
+7,2024-01-07,Tungabhadra,Karnataka,4.5
+8,2024-01-08,Cauvery,Tamil Nadu,4.2
+9,2024-01-09,Narmada,Gujarat,3.8
+10,2024-01-10,Tapti,Maharashtra,4.0
+11,2024-01-11,Yamuna,Delhi,3.2
+12,2024-01-12,Satluj,Punjab,4.1
+13,2024-01-13,Ganga,Uttar Pradesh,6.5
+14,2024-01-14,Betwa,Madhya Pradesh,3.7
+15,2024-01-15,Son,Jharkhand,4.3
+16,2024-01-16,Teesta,Sikkim,5.0
+17,2024-01-17,Barak,Assam,6.8
+18,2024-01-18,Subarnarekha,Odisha,4.9
+19,2024-01-19,Godavari,Telangana,5.6
+20,2024-01-20,Krishna,Karnataka,4.7

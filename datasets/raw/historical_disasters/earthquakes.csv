@@ -1,0 +1,21 @@
+id,date,country,region,magnitude,depth_km,severity,affected_population
+1,2024-01-03,Japan,Tokyo,6.5,20,High,12000
+2,2024-01-11,Indonesia,Java,5.8,18,Medium,6000
+3,2024-01-20,India,Himachal Pradesh,5.2,15,Medium,3000
+4,2024-02-02,Nepal,Kathmandu,6.1,25,High,8000
+5,2024-02-10,Turkey,Ankara,6.8,22,High,14000
+6,2024-02-18,Mexico,Oaxaca,5.9,30,Medium,4500
+7,2024-03-01,Japan,Osaka,7.0,28,High,18000
+8,2024-03-10,Chile,Santiago,6.2,20,High,9000
+9,2024-03-18,India,Uttarakhand,5.6,12,Medium,2500
+10,2024-04-01,Indonesia,Sumatra,6.5,24,High,11000
+11,2024-04-10,Nepal,Pokhara,5.7,18,Medium,3200
+12,2024-04-18,Japan,Hokkaido,6.9,30,High,16000
+13,2024-05-02,Turkey,Istanbul,6.3,20,High,10000
+14,2024-05-12,Mexico,Guerrero,5.8,15,Medium,5000
+15,2024-05-20,India,Sikkim,5.4,10,Medium,2800
+16,2024-06-01,Chile,Valparaiso,6.7,25,High,13000
+17,2024-06-10,Japan,Nagoya,7.1,32,High,22000
+18,2024-06-18,Nepal,Bharatpur,5.9,16,Medium,3500
+19,2024-06-25,Indonesia,Bali,6.4,21,High,8500
+20,2024-07-01,Turkey,Izmir,6.0,19,Medium,6000

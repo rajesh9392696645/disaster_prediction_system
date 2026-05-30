@@ -1,0 +1,21 @@
+id,date,cyclone_name,country,wind_speed_kmph,pressure_hpa,severity,affected_population
+1,2024-01-05,Cyclone Asha,India,140,980,High,50000
+2,2024-01-15,Cyclone Nila,Bangladesh,120,985,Medium,30000
+3,2024-01-25,Cyclone Ravi,India,160,970,High,65000
+4,2024-02-05,Cyclone Tara,Sri Lanka,110,990,Medium,25000
+5,2024-02-15,Cyclone Mira,India,170,965,High,70000
+6,2024-02-25,Cyclone Vayu,Myanmar,130,982,Medium,32000
+7,2024-03-05,Cyclone Surya,India,180,960,High,80000
+8,2024-03-15,Cyclone Neel,Bangladesh,125,986,Medium,28000
+9,2024-03-25,Cyclone Akash,India,150,975,High,60000
+10,2024-04-05,Cyclone Deepa,Sri Lanka,115,989,Medium,26000
+11,2024-04-15,Cyclone Megha,India,175,963,High,75000
+12,2024-04-25,Cyclone Kiran,Myanmar,135,980,Medium,35000
+13,2024-05-05,Cyclone Rani,India,185,955,High,90000
+14,2024-05-15,Cyclone Veena,Bangladesh,128,984,Medium,29000
+15,2024-05-25,Cyclone Arjun,India,165,968,High,72000
+16,2024-06-05,Cyclone Maya,Sri Lanka,118,988,Medium,27000
+17,2024-06-15,Cyclone Prithvi,India,190,950,High,95000
+18,2024-06-25,Cyclone Tejas,Myanmar,132,981,Medium,34000
+19,2024-07-01,Cyclone Kavya,India,178,962,High,78000
+20,2024-07-10,Cyclone Niharika,Bangladesh,124,985,Medium,31000

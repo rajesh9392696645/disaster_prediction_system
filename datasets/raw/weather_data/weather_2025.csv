@@ -1,0 +1,21 @@
+id,date,location,temperature_c,humidity_percent,rainfall_mm,wind_speed_kmph,pressure_hpa,weather_condition
+1,2025-01-01,Andhra Pradesh,31,80,70,22,1006,Rainy
+2,2025-01-02,Kerala,30,92,130,28,1001,Heavy Rain
+3,2025-01-03,Telangana,34,60,8,13,1015,Sunny
+4,2025-01-04,Tamil Nadu,33,66,12,16,1012,Cloudy
+5,2025-01-05,Karnataka,29,82,60,20,1007,Rainy
+6,2025-01-06,Maharashtra,35,55,5,12,1017,Sunny
+7,2025-01-07,Gujarat,38,40,0,11,1020,Heatwave
+8,2025-01-08,Odisha,32,84,110,27,1000,Storm
+9,2025-01-09,West Bengal,31,88,120,29,999,Storm
+10,2025-01-10,Assam,28,94,150,34,995,Cyclone Alert
+11,2025-01-11,Bihar,30,80,50,18,1008,Rainy
+12,2025-01-12,Jharkhand,31,76,35,17,1010,Cloudy
+13,2025-01-13,Delhi,27,53,0,7,1019,Sunny
+14,2025-01-14,Punjab,24,50,0,8,1021,Sunny
+15,2025-01-15,Haryana,25,52,0,8,1020,Sunny
+16,2025-01-16,Rajasthan,41,25,0,14,1023,Heatwave
+17,2025-01-17,Chhattisgarh,33,74,28,16,1012,Cloudy
+18,2025-01-18,Meghalaya,22,96,180,38,993,Cyclone Alert
+19,2025-01-19,Nagaland,23,92,140,31,997,Storm
+20,2025-01-20,Sikkim,16,90,90,24,1002,Rainy

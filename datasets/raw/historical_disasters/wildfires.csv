@@ -1,0 +1,21 @@
+id,date,country,region,temperature_c,burned_area_hectares,severity,affected_population
+1,2024-01-05,USA,California,42,500,High,3000
+2,2024-01-12,Australia,Victoria,40,420,Medium,1800
+3,2024-01-20,Canada,Alberta,38,390,Medium,1500
+4,2024-02-01,USA,Texas,44,650,High,4200
+5,2024-02-10,Australia,NSW,41,480,Medium,2100
+6,2024-02-18,Spain,Catalonia,39,370,Medium,1200
+7,2024-03-01,Greece,Athens,43,700,High,5000
+8,2024-03-10,USA,Arizona,45,820,High,6200
+9,2024-03-18,Canada,British Columbia,37,340,Medium,1100
+10,2024-04-01,Australia,Queensland,42,550,High,2800
+11,2024-04-10,USA,Nevada,46,900,High,7100
+12,2024-04-18,Spain,Madrid,40,430,Medium,1900
+13,2024-05-01,Greece,Crete,44,780,High,5300
+14,2024-05-10,Canada,Ontario,39,360,Medium,1400
+15,2024-05-18,USA,California,47,980,High,8200
+16,2024-06-01,Australia,Victoria,43,600,High,3000
+17,2024-06-10,Spain,Valencia,41,450,Medium,1700
+18,2024-06-18,Greece,Thessaloniki,45,850,High,6200
+19,2024-06-25,USA,Colorado,46,920,High,7500
+20,2024-07-01,Canada,Alberta,40,410,Medium,1600
